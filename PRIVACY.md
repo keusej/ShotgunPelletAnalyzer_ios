@@ -1,10 +1,10 @@
-Shotgun Pellet Analyzer Privacy Policy
+# Shotgun Pellet Analyzer Privacy Policy
 
 Effective date: July 2026
 
 Shotgun Pellet Analyzer processes selected images locally on your device.
 
-Data Collection
+## Data Collection
 
 Shotgun Pellet Analyzer does not:
 
@@ -15,22 +15,22 @@ Shotgun Pellet Analyzer does not:
 - Use advertising
 - Share data with third parties
 
-Photos
+## Photos
 
 The app requests access to your photo library so you can select pattern images for analysis and save annotated results.
 
 Selected images remain on your device unless you explicitly choose to share or export them outside the app.
 
-Analytics and Tracking
+## Analytics and Tracking
 
 Shotgun Pellet Analyzer does not use third-party analytics, advertising SDKs, or tracking technologies.
 
-Contact
+## Contact
 
 For privacy questions or support, open an issue in the public support repository:
 
-https://github.com/keusej/ShotgunPelletAnalyzer_ios/issues
+[Shotgun Pellet Analyzer Support](https://github.com/keusej/ShotgunPelletAnalyzer_ios/issues)
 
-Changes
+## Changes
 
 This policy may be updated as the app changes. Updates will be posted in this repository.
