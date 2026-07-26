@@ -14,6 +14,28 @@ The app is designed for shooters who want a practical field tool for pattern tes
 - Saves an annotated image back to your photo library
 - Supports an optional shell pellet count for percentage calculations
 
+## Screenshots
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="Images/screenshots/app-home.png" alt="Shotgun Pellet Analyzer home screen" width="220">
+      <br>
+      <strong>Select a Pattern</strong>
+    </td>
+    <td align="center" width="33%">
+      <img src="Images/screenshots/pattern-detected.png" alt="Shotgun pattern with detected pellet strikes" width="220">
+      <br>
+      <strong>Automatic Detection</strong>
+    </td>
+    <td align="center" width="33%">
+      <img src="Images/screenshots/zoom-review.png" alt="Zoomed pattern review with pellet markers" width="220">
+      <br>
+      <strong>Zoom and Review</strong>
+    </td>
+  </tr>
+</table>
+
 ## Getting Started With Patterns
 
 New to shotgun patterning, or want cleaner app results?
