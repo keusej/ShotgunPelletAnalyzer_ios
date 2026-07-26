@@ -14,6 +14,12 @@ The app is designed for shooters who want a practical field tool for pattern tes
 - Saves an annotated image back to your photo library
 - Supports an optional shell pellet count for percentage calculations
 
+## Getting Started With Patterns
+
+New to shotgun patterning, or want cleaner app results?
+
+[Getting Started With Shotgun Patterns](getting-started-with-shotgun-patterns.md) covers useful equipment, drawing the 30-inch circle, lighting, and photo tips.
+
 ## Support
 
 For questions, bug reports, or feature requests, open an issue in this repository:
