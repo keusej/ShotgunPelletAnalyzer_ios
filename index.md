@@ -14,6 +14,12 @@ Use the app to select a photo from your library, detect pellet strikes, review a
 - Zoom and pan for close review
 - Annotated image export to Photos
 
+## New to Patterning?
+
+Good analysis starts with a good target photo. See the setup guide for paper, target frames, drawing the 30-inch circle, lighting, and photo tips:
+
+[Getting Started With Shotgun Patterns](getting-started-with-shotgun-patterns.md)
+
 ## Getting Help
 
 For support, bug reports, or feature requests, open a GitHub issue:

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Patterning target frame</title>
+  <desc id="desc">A simple wooden target frame holding a large square sheet of patterning paper.</desc>
+  <rect width="720" height="420" fill="#f4f7f2"/>
+  <rect x="116" y="52" width="488" height="300" rx="6" fill="#fffdf5" stroke="#b8ab94" stroke-width="4"/>
+  <circle cx="360" cy="202" r="104" fill="none" stroke="#2a2a2a" stroke-width="5"/>
+  <g fill="#e43131">
+    <circle cx="318" cy="149" r="5"/><circle cx="394" cy="151" r="5"/><circle cx="424" cy="210" r="5"/>
+    <circle cx="298" cy="220" r="5"/><circle cx="370" cy="275" r="5"/><circle cx="350" cy="190" r="5"/>
+  </g>
+  <g fill="#b0773e" stroke="#6d4525" stroke-width="5" stroke-linejoin="round">
+    <rect x="83" y="34" width="34" height="350" rx="4"/>
+    <rect x="603" y="34" width="34" height="350" rx="4"/>
+    <rect x="76" y="38" width="568" height="32" rx="4"/>
+    <rect x="62" y="352" width="596" height="30" rx="4"/>
+  </g>
+  <g stroke="#6d4525" stroke-width="8" stroke-linecap="round">
+    <path d="M112 372 44 412"/>
+    <path d="M608 372 676 412"/>
+  </g>
+  <g fill="#3d2b1d">
+    <circle cx="100" cy="54" r="5"/><circle cx="620" cy="54" r="5"/><circle cx="100" cy="366" r="5"/><circle cx="620" cy="366" r="5"/>
+  </g>
+</svg>
