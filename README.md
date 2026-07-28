@@ -54,14 +54,14 @@ The app is designed for shooters who want a practical field tool for pattern tes
       <strong>Select a Pattern</strong>
     </td>
     <td align="center" width="33%">
-      <img src="Images/screenshots/pattern-detected.png" alt="Shotgun pattern with detected pellet strikes" width="220">
+      <img src="Images/screenshots/detector-settings.png" alt="Auto-detector settings with calibration line mode" width="220">
       <br>
-      <strong>Automatic Detection</strong>
+      <strong>Detector Settings</strong>
     </td>
     <td align="center" width="33%">
-      <img src="Images/screenshots/zoom-review.png" alt="Zoomed pattern review with pellet markers" width="220">
+      <img src="Images/screenshots/pattern-detected.png" alt="Line-calibrated shotgun pattern with detected pellet strikes" width="220">
       <br>
-      <strong>Zoom and Review</strong>
+      <strong>Automatic Detection</strong>
     </td>
   </tr>
 </table>
@@ -70,7 +70,7 @@ The app is designed for shooters who want a practical field tool for pattern tes
 
 New to shotgun patterning, or want cleaner app results?
 
-[Getting Started With Shotgun Patterns](getting-started-with-shotgun-patterns.md) covers useful equipment, drawing the 30-inch circle, lighting, and photo tips.
+[Getting Started With Shotgun Patterns](getting-started-with-shotgun-patterns.md) covers useful equipment, calibration lines, optional 30-inch circles, lighting, and photo tips.
 
 ## Support
 

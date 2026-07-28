@@ -16,9 +16,31 @@ Use the app to select a photo from your library, detect pellet strikes, review a
 
 ## New to Patterning?
 
-Good analysis starts with a good target photo. See the setup guide for paper, target frames, drawing the 30-inch circle, lighting, and photo tips:
+Good analysis starts with a good target photo. See the setup guide for paper, target frames, calibration lines, optional 30-inch circles, lighting, and photo tips:
 
 [Getting Started With Shotgun Patterns](getting-started-with-shotgun-patterns.md)
+
+## Screenshots
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="Images/screenshots/app-home.png" alt="Shotgun Pellet Analyzer home screen" width="220">
+      <br>
+      <strong>Select a Pattern</strong>
+    </td>
+    <td align="center" width="33%">
+      <img src="Images/screenshots/detector-settings.png" alt="Auto-detector settings with calibration line mode" width="220">
+      <br>
+      <strong>Detector Settings</strong>
+    </td>
+    <td align="center" width="33%">
+      <img src="Images/screenshots/pattern-detected.png" alt="Line-calibrated shotgun pattern with detected pellet strikes" width="220">
+      <br>
+      <strong>Automatic Detection</strong>
+    </td>
+  </tr>
+</table>
 
 ## Using the App
 
