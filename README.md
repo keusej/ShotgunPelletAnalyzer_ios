@@ -14,6 +14,36 @@ The app is designed for shooters who want a practical field tool for pattern tes
 - Saves an annotated image back to your photo library
 - Supports an optional shell pellet count for percentage calculations
 
+## Using the App
+
+1. Tap the **folder** button and select a pattern photo from your photo library.
+2. If the image includes extra background, tap the **dashed rectangle** button and draw a search region around the target paper, calibration line, and pellet pattern. Drag the box or its corners to adjust it.
+3. Tap the **sliders** button to choose the detection mode and settings.
+4. Tap the **crosshair** button to detect pellets.
+5. Pinch to zoom and drag to pan while reviewing.
+6. Tap to add a missed pellet. Double-tap or long-press near a marker to remove it.
+7. Tap **save** to export a marked image with counts and percentages.
+
+### Toolbar Guide
+
+- **Folder**: open a new image.
+- **Sliders**: detector settings.
+- **Dashed rectangle**: draw or edit the search region.
+- **Rectangle with X**: clear the search region.
+- **Trash**: clear pellet markers.
+- **Crosshair**: run automatic detection.
+- **Plus / minus circles**: adjust marker dot size.
+- **Save**: save the annotated image.
+- **Waveform**: save a detector heatmap for troubleshooting.
+
+### Detector Settings
+
+- **Find circle from line**: use a straight calibration line on the target to estimate scale, then place the 30-inch analysis circle around the densest pellet region.
+- **Use drawn 30in circle**: use a visible 30-inch circle already drawn on the target.
+- **Length of line (inches)**: enter the real length of the calibration line, commonly 12 inches.
+- **Pellet sensitivity**: increase if real pellet holes are missed, decrease if folds or marks are falsely detected.
+- **Pellets in shell**: optional total pellet count; when set, the app reports percentages for the 30-inch pattern and 10-inch core.
+
 ## Screenshots
 
 <table>
